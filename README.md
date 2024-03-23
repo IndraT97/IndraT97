@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 Data Visualization projects [https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652)
+- 👨‍💻 Data Visualization projects [DataViz](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652)
 
 - 📫 Reach me out through my email **ist220000@utdallas.edu**
 
