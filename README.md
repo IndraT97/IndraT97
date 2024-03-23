@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Thakare</h1>
-<h3 align="center">Currently pursuing Masters in Data Analytics as graduate student at University of Texas at Dallas. For more detail, please checkout my LinkedIn profile</h3>
+<h3 align="center">Currently pursuing Masters in Data Analytics as graduate student at University of Texas at Dallas</h3>
+<h4 align="center">For more detail, please checkout my LinkedIn profile</h4>
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
