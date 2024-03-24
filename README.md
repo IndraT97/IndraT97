@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Thakare</h1>
 <h3 align="center">Currently pursuing Masters in Data Analytics as Graduate Student at University of Texas at Dallas</h3>
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Data Analytics Projects**
 
 - 👨‍💻 Data Visualization projects [DataViz](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652)
 
