@@ -5,7 +5,7 @@
 
 - 👨‍💻 Data Visualization projects [DataViz](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652)
 
-- 📫 Reach me out through my email **ist220000@utdallas.edu**
+- 📫 Reachout to me through my email **ist220000@utdallas.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
