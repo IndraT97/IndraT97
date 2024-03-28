@@ -3,13 +3,13 @@
 
 - 👯 I’m looking to collaborate on **Open Source Data Analytics Projects**
 
-- 👨‍💻 Data Visualization projects **[DataViz](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652)**
-
-- 📫 Reachout to me through my email **ist220000@utdallas.edu**
+- 🌱 I'm currently working on **Data Engineering Projects**
 
 - 👯 open to discuss on **Machine Learning and Data Engineering Topic**
 
-- 🌱 I'm currently working on **Data Engineering Projects**
+- 👨‍💻 Data Visualization projects **[DataViz](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652)**
+
+- 📫 Reachout to me through my email **ist220000@utdallas.edu**
 
 ## Connect with me
 <p align="left">
