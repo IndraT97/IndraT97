@@ -7,8 +7,9 @@
 
 - 📫 Reachout to me through my email **ist220000@utdallas.edu**
 
-- open to discuss on xyz Topic
-- I'm currently working on "ABC"
+- 👯 open to discuss on Machine Learning and Data Engineering Topic
+
+- 🌱 I'm currently working on "ABC"
 
 ## Connect with me
 <p align="left">
