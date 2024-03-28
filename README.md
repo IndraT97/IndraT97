@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently working on **Data Engineering Projects**
 
-- 👯 open to discuss on **Machine Learning and Data Engineering Topic**
+- 🤝 open to discuss on **Machine Learning and Data Engineering Topic**
 
 - 👨‍💻 Data Visualization projects **[DataViz](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652)**
 
