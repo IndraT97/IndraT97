@@ -1,5 +1,5 @@
 <h1 align="Left">Hey 👋, I'm Indrajeet</h1>
-<h3 align="Left">Currently pursuing Masters in Business Analytics as Graduate Student at University of Texas at Dallas</h3>
+<h3 align="Left">Masters in Business Analytics at University of Texas at Dallas</h3>
 
 - 👯 I’m looking to collaborate on **Open Source Data Analytics Projects**
 
