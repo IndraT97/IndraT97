@@ -6,7 +6,7 @@
 
 - 🤝 Open to discuss on **Machine Learning and Data Engineering Topic**
 
-- 👨‍💻 My Data Visualization projects **[Repo 1](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652) , [Repo 2](https://public.tableau.com/app/profile/indrajeet.satish.thakare/vizzes)**
+- 👨‍💻 My Data Visualization projects **[Repo 1](https://mavenanalytics.io/profile/Indrajeet-Satish-Thakare/156672652) | [Repo 2](https://public.tableau.com/app/profile/indrajeet.satish.thakare/vizzes)**
 
 - 📫 Reachout to me through my email **ist220000@utdallas.edu**
 
