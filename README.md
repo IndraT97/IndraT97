@@ -2,7 +2,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Data Analytics Projects**
 
-- 🌱 I'm currently working on **Machine Learning & Data Engineering Projects**
+- 🌱 I'm currently working on **Data Analytics & Data Engineering Projects**
 
 - 🤝 Open to discuss on **Machine Learning and Data Engineering Topics**
 
