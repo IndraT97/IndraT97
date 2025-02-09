@@ -12,7 +12,6 @@
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/i97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/i97/" height="25" width="35" /></a>
 <a href="https://www.instagram.com/indrajeet__thk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/indrajeet__thk/" height="25" width="35" /></a>
 <a href="https://indrat97.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/myspace.svg" alt="https://www.instagram.com/indrajeet__thk/" height="25" width="35" /></a>
 
